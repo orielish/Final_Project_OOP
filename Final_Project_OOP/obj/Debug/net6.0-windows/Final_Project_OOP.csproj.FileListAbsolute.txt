@@ -1,0 +1,7 @@
+C:\Users\libxp\source\repos\Final_Project_OOP\Final_Project_OOP\obj\Debug\net6.0-windows\Final_Project_OOP.csproj.AssemblyReference.cache
+C:\Users\libxp\source\repos\Final_Project_OOP\Final_Project_OOP\obj\Debug\net6.0-windows\Final_Project_OOP.Form1.resources
+C:\Users\libxp\source\repos\Final_Project_OOP\Final_Project_OOP\obj\Debug\net6.0-windows\Final_Project_OOP.csproj.GenerateResource.cache
+C:\Users\libxp\source\repos\Final_Project_OOP\Final_Project_OOP\obj\Debug\net6.0-windows\Final_Project_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\libxp\source\repos\Final_Project_OOP\Final_Project_OOP\obj\Debug\net6.0-windows\Final_Project_OOP.AssemblyInfoInputs.cache
+C:\Users\libxp\source\repos\Final_Project_OOP\Final_Project_OOP\obj\Debug\net6.0-windows\Final_Project_OOP.AssemblyInfo.cs
+C:\Users\libxp\source\repos\Final_Project_OOP\Final_Project_OOP\obj\Debug\net6.0-windows\Final_Project_OOP.csproj.CoreCompileInputs.cache
